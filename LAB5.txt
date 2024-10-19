@@ -1,0 +1,22 @@
+LAB5
+ Output & Input
+2. Pipelines ( | )
+3. File Permissions
+4. Superuser Commands
+5. Searching Text with grep
+Standard Output ( > ): Saves the output of a command to a file
+Append Output ( >> ): Adds output to an existing file
+Standard Input ( < ): Takes input from a file
+Using Pipe: Passes the output of one command as input to another command.
+cat file.txt | grep "keyword" : Displays the contents of file.txt and
+searches for keyword
+Changing file permissions: Use chmod to set the read, write, and execute permissions
+of a file.
+chmod 644 example.txt : Owner has read and write permissions, while the group
+and others have read-only permissions.
+chmod 755 script.sh : The owner has read, write, and execute permissions, while
+the group and others have read and execute permissions
+Executing Commands with Superuser Privileges: Use sudo to execute commands
+that require administrative rights.
+Using the grep Command: Searches for specific text in files.
+grep "error" log.txt : Searches for lines containing "error" in the log.txt file

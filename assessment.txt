@@ -1,0 +1,44 @@
+
+1.VS Code
+
+license: MIT license
+
+license link:  https://github.com/microsoft/vscode?tab=MIT-1-ov-file#
+
+repository: https://github.com/microsoft/vscode
+
+information:  An open source code editor developed by Microsoft that supports a wide range of programming languages and features a powerful extension system.
+마이크로소프트Microsoft에서 오픈소스로 개발하고 있는 소스 코드 에디터
+
+
+
+1. visual studio
+
+https://github.com/github/VisualStudio
+
+brief description : An integrated development environment developed by Microsoft. Most of students who study s/w are know this program.
+
+Copyright (c) Microsoft Corporation.
+
+2. algorithms-python
+
+https://github.com/TheAlgorithms/Python
+
+brief description : these days, the python rise in IT market. people said, python is easy to reading and programming. and also I agree that.
+
+Copyright (c) 2016-2022 TheAlgorithms and contributors
+
+3. JavaScript
+
+https://github.com/TheAlgorithms/JavaScript
+
+brief description : A programming language based on prototype. execute a complex syntax in webpage. like load and update a contents, control a media, and animate a images. 
+
+Copyright (C) 2007 Free Software Foundation, Inc.
+
+4. Java
+
+https://github.com/TheAlgorithms/Java
+
+ A widely-used programming language for coding web applications. It has been a popular choice among developers
+
